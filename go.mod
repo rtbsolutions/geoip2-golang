@@ -1,4 +1,4 @@
-module github.com/oschwald/geoip2-golang
+module github.com/rtbsolutions/geoip2-golang
 
 go 1.21
 
